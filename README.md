@@ -1,4 +1,4 @@
-# ImprovingSmalBusinessControls
+# ImprovingSmallBusinessControls
 
 Google Activity -  Improve authentication, authorization, and accounting for a small business
 
